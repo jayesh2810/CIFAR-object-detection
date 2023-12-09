@@ -13,9 +13,9 @@ Welcome to the CIFAR Object Detection repository! This project leverages the pow
 *Performance Metrics*: Utilization of accuracy, precision, recall, and F1-score to evaluate the model.
 *Visualization Tools*: Graphs and charts to visualize training progress and model performance.
 
-How to Use
+## How to Use
 Clone the Repository: git clone https://github.com/jayesh2810/CIFAR-object-detection.git
 Install Dependencies: Run pip install -r requirements.txt to install necessary libraries.
 
-Contributions
+### Contributions
 Contributions to this project are welcome! Whether it's improving the model architecture, enhancing the data preprocessing steps, or suggesting better evaluation metrics, your input is valuable. Please feel free to fork this repository and submit your pull requests.
