@@ -3,14 +3,20 @@ Welcome to the CIFAR Object Detection repository! This project leverages the pow
 
 ### Project Overview
 *Objective*: To classify images into one of the 10 classes using a CNN model.
+
 *Dataset*: CIFAR-10, consisting of 60,000 images across 10 categories.
+
 *Model Architecture*: Our CNN model includes multiple convolutional layers, pooling layers, and fully connected layers, carefully designed to extract and learn features from the images.
 
 ### Key Features
 *Data Preprocessing*: Includes normalization and augmentation techniques to enhance model performance.
+
 *CNN Architecture*: Custom-built layers tailored for efficient learning and accurate classification.
+
 *Training and Validation*: Splitting the dataset into training and validation sets to ensure robustness.
+
 *Performance Metrics*: Utilization of accuracy, precision, recall, and F1-score to evaluate the model.
+
 *Visualization Tools*: Graphs and charts to visualize training progress and model performance.
 
 ## How to Use
